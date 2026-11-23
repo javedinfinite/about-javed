@@ -2,8 +2,8 @@
 **Scalable Systems Architecture · Distributed Platforms · Applied GenAI**
 
 [![Website](https://shields.io)](https://javedinfinite.com)
-[![Location](https://shields.io)]()
-[![Experience](https://shields.io)]()
+[![Location]([https://shields.io](http://maps.google.com/maps/?q=BANGALORE&navigate=yes))]()
+[![Experience](https://javedinfinite.com/resume)]()
 
 > 🔒 **Why are most of my 60+ repositories private?**  
 > My active production builds, full-stack client/personal platforms, and GenAI systems live in private repositories. Enable **"Private contributions"** on my activity graph below to see daily commit activity, or reach out directly for live demos and architecture walkthroughs.
